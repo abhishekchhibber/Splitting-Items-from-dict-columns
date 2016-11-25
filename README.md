@@ -1,6 +1,6 @@
 # Splitting Items from dict columns
 
-This python file converts dictonary rows such as this:
+[This python file](https://github.com/abhishekchhibber/Splitting-Items-from-dict-columns/blob/master/fintech%20trends%20break.py) converts dictonary rows such as this:
 ```
 Title,Date,Trend,Segment,Country
 "Indian bank launches WhatsApp, Facebook, Twitter mobile payments",2015-05-14,"New Products,Expansion","Mobile Fintech,Payment Processing",India
